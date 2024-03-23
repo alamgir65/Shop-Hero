@@ -1,0 +1,24 @@
+
+.navbar-custom{
+    background-color: rgb(21, 21, 115);
+    color: white;
+    gap: 20px;
+
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.brows{
+    width: 20px;
+}
+.last-second{
+    background-color: #a29dd3;
+    /* height: 70vh; */
+}
+.footer{
+    background-color: black;
+}
+.link{
+    padding-left: 20px;
+}
